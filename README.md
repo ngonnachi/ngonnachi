@@ -2,7 +2,7 @@
 - 👀 I’m interested in LITA
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Excel function, SQL, Power BI
-- 📫 How to reach me 
+- 📫 How to reach me https://github.com/ngonnachi/ngonnachi.git
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
